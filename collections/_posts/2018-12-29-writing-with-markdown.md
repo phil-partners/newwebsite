@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Writing With Markdown"
+title: "Writing With Duncan"
 date: 2018-12-29T10:26:40+10:00
 authors: ["Sage Kirk"]
 categories: ["Development", "Javascript"]
