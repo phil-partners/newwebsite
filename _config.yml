@@ -1,7 +1,7 @@
 # Jekyll Config
 baseurl: "/"
 permalink: pretty
-title: "Jekyll Advance"
+title: "Heliograph Venture Capital"
 collections_dir: collections
 markdown: kramdown
 highlighter: rouge
@@ -94,7 +94,7 @@ footer:
   enable_bottom_menu: true
 
   enable_copyright: true
-  copyright: "© 2021 Zerostatic Themes"
+  copyright: "© 2021 Heliograph Venture Capital"
 
 contact:
   show_contact_details: true
