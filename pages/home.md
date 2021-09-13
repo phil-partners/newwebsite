@@ -1,15 +1,15 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+title: "Heliograph Venture Capital"
+description: "Serving multi-stage companies on a mission to build the future."
 header_transparent: true
-meta_title: Jekyll Advance - Premium Jekyll Theme
+meta_title: Heliograph Venture Capital
 
 hero:
   enabled: true
-  heading: "Jekyll Advance"
-  sub_heading: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  heading: "Heliograph Venture Capital"
+  sub_heading: "Serving multi-stage companies on a mission to build the future."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
@@ -18,7 +18,7 @@ hero:
   fullscreen_mobile: true
   fullscreen_desktop: false
   buttons:
-    enabled: true
+    enabled: false
     list:
       - text: "Buy Now"
         url: "https://www.zerostatic.io/theme/jekyll-advance/"
