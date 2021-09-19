@@ -1,15 +1,15 @@
 ---
 layout: home
 permalink: "/"
-title: "Heliograph Venture Capital"
-description: "Serving multi-stage companies on a mission to build the future."
+title: "Applied OpenBSD"
+description: "Proactively secure web application development using the BCHS (OpenBSD, C, httpd, SQLite) software stack."
 header_transparent: true
-meta_title: Heliograph Venture Capital
+meta_title: Applied OpenBSD
 
 hero:
   enabled: true
-  heading: "Heliograph Venture Capital"
-  sub_heading: "Creating something new is the work of many hands and minds, rarely ever one person alone. And more hands and minds means more support when you need it the most. At Heliograph Venture Capital it is clearly to our advantage when you do well."
+  heading: "Applied OpenBSD"
+  sub_heading: "Proactively secure web application development using the BCHS (OpenBSD, C, httpd, SQLite) software stack."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
