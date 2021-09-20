@@ -1,6 +1,6 @@
 ---
-title: "User Experience"
-description: "Understanding the needs of the user and creating product solutions."
+title: "Technical Consultancy"
+description: "At the core of Applied OpenBSD are technology and security experts."
 date: 2018-11-28T15:15:34+10:00
 weight: 2
 header_transparent: true
@@ -10,8 +10,8 @@ image: ""
 
 hero:
   enabled: true
-  heading: "User Experience"
-  sub_heading: "Understanding the needs of the user and creating product solutions."
+  heading: "Technical Consultancy"
+  sub_heading: "At the core of Applied OpenBSD are technology and security experts. We have architected numerous leading services and systems in our core area of web applications. These services required the highest levels of security."
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
