@@ -3,10 +3,5 @@
     "title": "Twitter",
     "fa_icon": "fab fa-twitter",
     "url": "https://twitter.com/appliedopenbsd"
-  },
-  {
-    "title": "Github",
-    "fa_icon": "fab fa-github",
-    "url": "https://www.zerostatic.io"
-  },
+  }  
 ]
