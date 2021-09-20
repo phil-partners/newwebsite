@@ -21,7 +21,7 @@ main:
   - name: About
     url: /about/
     weight: 5
-  footer_primary:
+footer_primary:
   - name: Home
     url: /
     weight: 1
