@@ -41,7 +41,7 @@ services:
   sub_heading: ""
   limit: 3
   sort: "weight" # 'date'
-  view_more_button_enabled: true
+  view_more_button_enabled: false
   view_more_button_text: "View All Services"
   view_more_button_link: "/services"
   hide_thumbnail: false
