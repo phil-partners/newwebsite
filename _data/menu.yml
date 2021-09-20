@@ -6,11 +6,11 @@ main:
     url: /services/
     weight: 1
     child:
-      - name: "Web Development"
+      - name: "Expert Advisory"
         url: /services/web-development/
-      - name: "UX"
+      - name: "Technical Consultancy"
         url: /services/user-experience/
-      - name: "Branding"
+      - name: "Software Engineering"
         url: /services/branding/
   - name: Projects
     url: /projects/
@@ -21,10 +21,7 @@ main:
   - name: About
     url: /about/
     weight: 5
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
-    weight: 6
-footer_primary:
+  footer_primary:
   - name: Home
     url: /
     weight: 1
@@ -48,10 +45,7 @@ footer_tertiary:
   - name: Contact
     url: /contact/
     weight: 1
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
-    weight: 2
-bottom:
+  bottom:
   - name: Privacy Policy
     url: /privacy-policy/
     weight: 3
