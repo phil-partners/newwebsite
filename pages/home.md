@@ -52,8 +52,8 @@ intro:
   enabled: true
   align: left
   image: "https://source.unsplash.com/iQ15DTx-63k/640x360"
-  heading: "We Help Your Business Grow"
-  sub_heading: "Our expert team and suite of digital services will help transform your business and achieve results online, fast."
+  heading: "When only the most battle hardened web applications will do"
+  sub_heading: "In the toughest, most hostile network environments you don't want to lose sleep worrying whether your web applications will survive overnight."
   features:
     enabled: false
     list:
