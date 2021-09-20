@@ -1,7 +1,7 @@
 # Jekyll Config
 baseurl: "/"
 permalink: pretty
-title: "Applied OpenBSD - Pro-actively secure web application development"
+title: "Applied OpenBSD - Proactively secure web application development"
 collections_dir: collections
 markdown: kramdown
 highlighter: rouge
