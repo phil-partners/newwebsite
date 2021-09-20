@@ -45,7 +45,7 @@ footer_tertiary:
   - name: Contact
     url: /contact/
     weight: 1
-  bottom:
+bottom:
   - name: Privacy Policy
     url: /privacy-policy/
     weight: 3
