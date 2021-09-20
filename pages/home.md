@@ -9,7 +9,7 @@ meta_title: Applied OpenBSD
 hero:
   enabled: true
   heading: "Applied OpenBSD"
-  sub_heading: "Proactively secure web application development using the BCHS (OpenBSD, C, httpd, SQLite) software stack."
+  sub_heading: "Proactively secure web application development."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
@@ -52,7 +52,7 @@ intro:
   enabled: true
   align: left
   image: "https://source.unsplash.com/iQ15DTx-63k/640x360"
-  heading: "When only the most battle hardened web applications will do"
+  heading: "When only the most proactively secure web applications will do"
   sub_heading: "In the toughest, most hostile network environments you don't want to lose sleep worrying whether your web applications will survive overnight."
   features:
     enabled: false
