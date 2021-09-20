@@ -2,7 +2,7 @@
 layout: home
 permalink: "/"
 title: "Applied OpenBSD"
-description: "Proactively secure web application development using the BCHS (OpenBSD, C, httpd, SQLite) software stack."
+description: "Proactively secure web application development."
 header_transparent: true
 meta_title: Applied OpenBSD
 
