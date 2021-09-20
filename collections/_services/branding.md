@@ -1,6 +1,6 @@
 ---
-title: "Branding"
-description: "The expression of a brand including its name, trademark, and visual appearance."
+title: "Software Development"
+description: "We undertake rapid prototyping using a hardened software stack."
 date: 2019-10-03
 weight: 3
 fa_icon: false
