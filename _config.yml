@@ -56,7 +56,7 @@ defaults:
 
 # Theme Config
 google_analytics_id: ""
-enable_dark_mode: true
+enable_dark_mode: false
 enable_fixed_header: true
 
 colors:
