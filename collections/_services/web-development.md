@@ -1,6 +1,6 @@
 ---
-title: "Web Development"
-description: "Our experienced software engineers develop websites and desktop applications"
+title: "Expert Advisory"
+description: "We are subject matter experts, with considerable experience gained working across the industry."
 date: 2017-11-28T15:14:54+10:00
 weight: 1
 header_transparent: true
@@ -11,8 +11,8 @@ image: "https://source.unsplash.com/pjAH2Ax4uWk/640x360"
 
 hero:
   enabled: true
-  heading: "Web Development"
-  sub_heading: "Our experienced software engineers develop websites and desktop applications"
+  heading: "Expert Advisory"
+  sub_heading: "We are subject matter experts, with considerable experience gained working across the industry. We assist our clients in understanding the evolving technical and business landscape, determining their strategy, building their roadmaps and executing their plans."
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
