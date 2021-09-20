@@ -1,5 +1,5 @@
 ---
-title: "Software Development"
+title: "Software Engineering"
 description: "We undertake rapid prototyping using a hardened software stack."
 date: 2019-10-03
 weight: 3
