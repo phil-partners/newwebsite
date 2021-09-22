@@ -2,7 +2,7 @@
 layout: home
 permalink: "/"
 title: "Applied OpenBSD"
-description: "Proactively secure web application development."
+description: "Proactively secure or else."
 header_transparent: true
 meta_title: Applied OpenBSD
 
