@@ -1,16 +1,16 @@
 ---
-title: "Modern Office Design"
+title: "Hardening the SSH daemon"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
 date: 2018-12-20
 weight: 1
 header_transparent: true
 thumbnail: "https://source.unsplash.com/N5RN0JE5kaY/640x360"
 image: "https://source.unsplash.com/KzPefInJW58/640x360"
-client: "Zero Developments Pty Ltd"
+client: "A global minerals and resources company"
 
 hero:
   enabled: true
-  heading: "Modern Office Design for Brisbane CBD"
+  heading: "Hardening the SSH daemon against zero day attacks"
   sub_heading: false
   text_color: "#FFFFFF"
   background_color: ""
