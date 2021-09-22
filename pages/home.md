@@ -2,14 +2,14 @@
 layout: home
 permalink: "/"
 title: "Applied OpenBSD"
-description: "Proactively secure or else."
+description: "Proactively secure - nothing less."
 header_transparent: true
 meta_title: Applied OpenBSD
 
 hero:
   enabled: true
   heading: "Applied OpenBSD"
-  sub_heading: "Proactively secure web application development."
+  sub_heading: "Proactively secure - nothing less."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
