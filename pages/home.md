@@ -36,7 +36,7 @@ hero:
         style: "light"
 
 services:
-  enabled: true
+  enabled: false
   heading: "Our Services"
   sub_heading: ""
   limit: 3
@@ -49,7 +49,7 @@ services:
   hide_description: false
 
 intro:
-  enabled: true
+  enabled: false
   align: left
   image: "https://source.unsplash.com/iQ15DTx-63k/640x360"
   heading: "When only the most proactively secure web applications will do"
@@ -73,12 +73,12 @@ intro:
         style: "primary"
 
 partners:
-  enabled: true
+  enabled: false
   limit: 5
   sort: "weight" # 'date'
 
 projects:
-  enabled: true
+  enabled: false
   heading: "Projects"
   sub_heading: "View a portfolio of our projects and recent work."
   limit: 2
@@ -90,7 +90,7 @@ projects:
   hide_description: true
 
 outro:
-  enabled: true
+  enabled: false
   align: center
   image: false
   heading: Get Started Today
@@ -109,7 +109,7 @@ outro:
         size: "large"
 
 posts:
-  enabled: true
+  enabled: false
   heading: Latest Blog Posts
   limit: 3
   sort: "date"
