@@ -1,7 +1,7 @@
 # Jekyll Config
 baseurl: "/"
 permalink: pretty
-title: "Applied OpenBSD - Proactively secure web application development"
+title: "Philanthropy Partners"
 collections_dir: collections
 markdown: kramdown
 highlighter: rouge
@@ -94,7 +94,7 @@ footer:
   enable_bottom_menu: true
 
   enable_copyright: true
-  copyright: "© 2021 Applied OpenBSD"
+  copyright: "© 2021 Philanthropy Partners"
 
 contact:
   show_contact_details: true
