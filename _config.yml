@@ -85,11 +85,11 @@ footer:
 
   enable_social_media_icons: true
 
-  enable_menu_footer_primary: true
+  enable_menu_footer_primary: false
   footer_primary_menu_title: "Advance"
-  enable_menu_footer_secondary: true
+  enable_menu_footer_secondary: false
   footer_secondary_menu_title: "About"
-  enable_menu_footer_tertiary: true
+  enable_menu_footer_tertiary: false
   footer_tertiary_menu_title: "Support"
   enable_bottom_menu: true
 
