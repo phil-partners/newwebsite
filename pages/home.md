@@ -1,15 +1,15 @@
 ---
 layout: home
 permalink: "/"
-title: "Applied OpenBSD"
-description: "Proactively secure - nothing less."
+title: "Philanthropy Partners"
+description: "Transforming what it means to be a philanthropist."
 header_transparent: true
-meta_title: Applied OpenBSD
+meta_title: Philanthropy Partners
 
 hero:
   enabled: true
-  heading: "Applied OpenBSD"
-  sub_heading: "Proactively secure - nothing less."
+  heading: "Philanthropy Partners"
+  sub_heading: "Transforming what it means to be a philanthropist."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
